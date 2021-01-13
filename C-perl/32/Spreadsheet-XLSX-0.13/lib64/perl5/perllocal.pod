@@ -1,0 +1,44 @@
+=head2 Fri Jul 17 14:18:40 2015: C<Module> L<Spreadsheet::XLSX|Spreadsheet::XLSX>
+
+=over 4
+
+=item *
+
+C<installed into: /share/genomics/perl/32/Spreadsheet-XLSX-0.13/share/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jul 17 14:18:51 2015: C<Module> L<Spreadsheet::XLSX|Spreadsheet::XLSX>
+
+=over 4
+
+=item *
+
+C<installed into: /share/genomics/perl/32/Spreadsheet-XLSX-0.13/share/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

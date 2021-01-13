@@ -1,0 +1,9 @@
+[LIB]
+avg_ins=500
+reverse_seq=0
+asm_flags=3
+rank=1
+pair_num_cutoff=3
+map_len=32
+q1=reads.1.fq.gz
+q2=reads.2.fq.gz
